@@ -1,4 +1,4 @@
-# SmartTree-Application
+# SmartStreet-Application
 Smart Street is an Android application which uses Barcode and QR Code Scanner to scan the Smart trees in any street. 
 It is developed using Android Studio and is part of my submission for my Course CMPE 235 - Mobile based System design.
 
